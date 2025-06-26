@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Roshan!
 
-Welcome to my GitHub profile! I'm a [Your Role – e.g., software developer, data scientist, etc.] with a passion for [short description of interests, e.g., building efficient web apps, solving real-world problems with data, etc.].
+Welcome to my GitHub profile! I'm a student at Homestead High School with a passion for solving real-world problems with data, and astronomy.
 
 ## 🚀 About Me
 
@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I'm a [Your Role – e.g., software developer, dat
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![roshan-dileep's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roshan-dileep&theme=vue-dark&hide_border=true)
+![roshan-dileep's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-dileep&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
